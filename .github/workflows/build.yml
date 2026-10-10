@@ -3,7 +3,11 @@ name: build
 on:
   push:
     branches: [ main ]
+    tags: [ 'v*' ]
   pull_request:
+
+permissions:
+  contents: write
 
 jobs:
   linux:
@@ -16,10 +20,16 @@ jobs:
         run: cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
       - name: Build
         run: ninja -C build
+      - name: Package
+        run: |
+          mkdir -p dist/genecyst-linux-x86_64
+          cp build/genecyst README.md LICENSE dist/genecyst-linux-x86_64/
+          cp third_party/genesis-plus-gx/LICENSE.txt dist/genecyst-linux-x86_64/LICENSE-genesis-plus-gx.txt
+          tar -C dist -czf genecyst-linux-x86_64.tar.gz genecyst-linux-x86_64
       - uses: actions/upload-artifact@v4
         with:
           name: genecyst-linux-x86_64
-          path: build/genecyst
+          path: genecyst-linux-x86_64.tar.gz
 
   windows:
     runs-on: windows-latest
@@ -39,18 +49,35 @@ jobs:
             mingw-w64-x86_64-SDL2
             mingw-w64-x86_64-zlib
             mingw-w64-x86_64-pkgconf
+            zip
       - name: Configure
         run: cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
       - name: Build
         run: ninja -C build
       - name: Package
         run: |
-          mkdir -p dist/genecyst
-          cp build/genecyst.exe dist/genecyst/
-          cp /mingw64/bin/SDL2.dll /mingw64/bin/zlib1.dll dist/genecyst/ || true
-          cp README.md dist/genecyst/README.md
-          cp third_party/genesis-plus-gx/LICENSE.txt dist/genecyst/LICENSE-genesis-plus-gx.txt
+          mkdir -p dist/genecyst-windows-x86_64
+          cp build/genecyst.exe README.md LICENSE dist/genecyst-windows-x86_64/
+          cp /mingw64/bin/SDL2.dll dist/genecyst-windows-x86_64/
+          cp /mingw64/bin/zlib1.dll dist/genecyst-windows-x86_64/ || true
+          cp third_party/genesis-plus-gx/LICENSE.txt dist/genecyst-windows-x86_64/LICENSE-genesis-plus-gx.txt
+          cd dist && zip -r ../genecyst-windows-x86_64.zip genecyst-windows-x86_64
       - uses: actions/upload-artifact@v4
         with:
           name: genecyst-windows-x86_64
-          path: dist
+          path: genecyst-windows-x86_64.zip
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [linux, windows]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            artifacts/genecyst-linux-x86_64/genecyst-linux-x86_64.tar.gz
+            artifacts/genecyst-windows-x86_64/genecyst-windows-x86_64.zip
+          generate_release_notes: true

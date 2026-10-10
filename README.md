@@ -99,6 +99,20 @@ work (and other Mega Drive experiments), find me at:
 * X / Twitter: https://x.com/junkatanagames
 * YouTube: https://www.youtube.com/@junkatana
 
+## Download
+
+Ready-to-run builds are on the
+[Releases page](https://github.com/junkatana/genecyst-revival/releases/latest):
+
+* **Windows (64-bit):** `genecyst-windows-x86_64.zip` — unzip and run
+  `genecyst.exe` (SDL2.dll is included).
+* **Linux (x86_64):** `genecyst-linux-x86_64.tar.gz` — needs the SDL2 runtime
+  (`sudo apt install libsdl2-2.0-0` on Debian/Ubuntu).
+
+Every push also produces development builds under
+[Actions](https://github.com/junkatana/genecyst-revival/actions) (GitHub login
+required to download those).
+
 ## Build
 
 Linux:
