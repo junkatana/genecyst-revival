@@ -14,6 +14,11 @@ The source code was never released. This project rebuilds Genecyst from the
 outside in, pixel by pixel, on top of a modern emulation core, so it can run on
 today's machines and keep being what it was.
 
+**Download the latest build:**
+[**Windows 64-bit (zip)**](https://github.com/junkatana/genecyst-revival/releases/latest/download/genecyst-windows-x86_64.zip) ·
+[**Linux x86_64 (tar.gz)**](https://github.com/junkatana/genecyst-revival/releases/latest/download/genecyst-linux-x86_64.tar.gz) ·
+[all releases](https://github.com/junkatana/genecyst-revival/releases)
+
 ![Genecyst revival running a homebrew demo](docs/screenshots/title.png)
 
 ## This is not the original Genecyst
@@ -101,13 +106,16 @@ work (and other Mega Drive experiments), find me at:
 
 ## Download
 
-Ready-to-run builds are on the
-[Releases page](https://github.com/junkatana/genecyst-revival/releases/latest):
+Direct links to the latest release (they always point to the newest version):
 
-* **Windows (64-bit):** `genecyst-windows-x86_64.zip` — unzip and run
-  `genecyst.exe` (SDL2.dll is included).
-* **Linux (x86_64):** `genecyst-linux-x86_64.tar.gz` — needs the SDL2 runtime
-  (`sudo apt install libsdl2-2.0-0` on Debian/Ubuntu).
+* **Windows (64-bit):** [genecyst-windows-x86_64.zip](https://github.com/junkatana/genecyst-revival/releases/latest/download/genecyst-windows-x86_64.zip)
+  — unzip anywhere and run `genecyst.exe` (SDL2.dll is included). Put your
+  ROMs in any folder and use File > Load ROM, or drop a ROM on the window.
+* **Linux (x86_64):** [genecyst-linux-x86_64.tar.gz](https://github.com/junkatana/genecyst-revival/releases/latest/download/genecyst-linux-x86_64.tar.gz)
+  — needs the SDL2 runtime (`sudo apt install libsdl2-2.0-0` on Debian/Ubuntu),
+  then `./genecyst game.bin`.
+
+Older versions and release notes: [Releases](https://github.com/junkatana/genecyst-revival/releases).
 
 Every push also produces development builds under
 [Actions](https://github.com/junkatana/genecyst-revival/actions) (GitHub login
