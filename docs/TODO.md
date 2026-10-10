@@ -14,7 +14,7 @@
 - [x] ROM patcher dialog (F6): Game Genie + raw codes, Add/Remove/Toggle/Save, `.pat` files
 - [x] Maximize box: integer zoom of the game inside larger virtual screens
 - [x] Video filters: Scale2x, 2xSaI, Super 2xSaI, Super Eagle, Scanlines, TV, CRT
-- [x] Auto-hide of the GUI after 3 s idle (revival feature requested by Arthur; mouse/Esc bring it back)
+- [x] Auto-hide of the GUI after 3 s idle (revival feature; mouse/Esc bring it back)
 - [x] Exact window palette (frame/title/body), Genecyst 3D boxes, three-tone blood drips
 - [x] Bitmaps from the EXE resource container (icons, check, arrows, close box, arrow cursor)
 - [x] Golden inverted-cross cursor (hand-drawn from an early-version screenshot), Misc > Cursor
