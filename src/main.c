@@ -21,6 +21,7 @@ static int vfps_override = 0;   /* Timing dialog: 0 = auto */
 static int wave_output = 1;     /* Sound > Wave output: audio device unpaused */
 static int show_fm_info = 0;    /* Sound > Show FM info overlay */
 static char cfg_path[1200] = "genecyst.cfg";
+
 static int frameskip = 0;        /* 0 = auto */
 static int vsync = 1;
 static int sound_on = 1;
@@ -275,6 +276,94 @@ static MenuItem misc_items[] = {
 static Menu menus[] = {
     { "File", file_items }, { "View", view_items }, { "CPU", cpu_items },
     { "Settings", settings_items }, { "Sound", sound_items }, { "Misc", misc_items } };
+
+/* ---- scripted demo / frame dump (used to record presentation videos without
+ * touching the real desktop): -script <file> feeds synthetic events at frame
+ * numbers, -framedump <file> writes every frame as 640x480 raw RGB24 -------- */
+typedef struct { int frame; char cmd[12]; int a, b; char text[96]; } ScriptLine;
+static ScriptLine script[1024];
+static int nscript, script_pos, frame_no, exit_after;
+static FILE *framedump;
+
+static void script_load(const char *path)
+{
+    FILE *f = fopen(path, "r");
+    if (!f) { fprintf(stderr, "script: cannot open %s\n", path); return; }
+    char line[256];
+    while (fgets(line, sizeof line, f) && nscript < 1024) {
+        ScriptLine *l = &script[nscript];
+        memset(l, 0, sizeof *l);
+        if (line[0] == '#' || line[0] == '\n') continue;
+        int n = sscanf(line, "%d %11s %d %d", &l->frame, l->cmd, &l->a, &l->b);
+        if (n < 2) continue;
+        if (!strcmp(l->cmd, "key") || !strcmp(l->cmd, "altkey") || !strcmp(l->cmd, "text")) {
+            char *p = strstr(line, l->cmd) + strlen(l->cmd);
+            while (*p == ' ') p++;
+            p[strcspn(p, "\r\n")] = 0;
+            snprintf(l->text, sizeof l->text, "%s", p);
+        }
+        nscript++;
+    }
+    fclose(f);
+}
+
+static void script_push_mouse(Uint32 type, int x, int y)
+{
+    SDL_Event ev; memset(&ev, 0, sizeof ev);
+    ev.type = type;
+    if (type == SDL_MOUSEMOTION) { ev.motion.x = x * out_f; ev.motion.y = y * out_f; ev.motion.xrel = 1; ev.motion.yrel = 1; }
+    else { ev.button.x = x * out_f; ev.button.y = y * out_f; ev.button.button = SDL_BUTTON_LEFT; ev.button.state = type == SDL_MOUSEBUTTONDOWN ? SDL_PRESSED : SDL_RELEASED; }
+    SDL_PushEvent(&ev);
+}
+
+static void script_push_key(const char *name, int alt)
+{
+    SDL_Event ev; memset(&ev, 0, sizeof ev);
+    SDL_Keycode k = SDL_GetKeyFromName(name);
+    if (k == SDLK_UNKNOWN) return;
+    ev.type = SDL_KEYDOWN; ev.key.state = SDL_PRESSED;
+    ev.key.keysym.sym = k; ev.key.keysym.scancode = SDL_GetScancodeFromKey(k); ev.key.keysym.mod = alt ? KMOD_LALT : 0;
+    SDL_PushEvent(&ev);
+    ev.type = SDL_KEYUP; ev.key.state = SDL_RELEASED;
+    SDL_PushEvent(&ev);
+}
+
+static void script_tick(void)
+{
+    while (script_pos < nscript && script[script_pos].frame <= frame_no) {
+        ScriptLine *l = &script[script_pos++];
+        if (!strcmp(l->cmd, "move")) script_push_mouse(SDL_MOUSEMOTION, l->a, l->b);
+        else if (!strcmp(l->cmd, "click")) { script_push_mouse(SDL_MOUSEMOTION, l->a, l->b); script_push_mouse(SDL_MOUSEBUTTONDOWN, l->a, l->b); script_push_mouse(SDL_MOUSEBUTTONUP, l->a, l->b); }
+        else if (!strcmp(l->cmd, "down")) { script_push_mouse(SDL_MOUSEMOTION, l->a, l->b); script_push_mouse(SDL_MOUSEBUTTONDOWN, l->a, l->b); }
+        else if (!strcmp(l->cmd, "up")) { script_push_mouse(SDL_MOUSEMOTION, l->a, l->b); script_push_mouse(SDL_MOUSEBUTTONUP, l->a, l->b); }
+        else if (!strcmp(l->cmd, "key")) script_push_key(l->text, 0);
+        else if (!strcmp(l->cmd, "altkey")) script_push_key(l->text, 1);
+        else if (!strcmp(l->cmd, "text")) {
+            for (const char *p = l->text; *p; p++) { SDL_Event ev; memset(&ev, 0, sizeof ev); ev.type = SDL_TEXTINPUT; ev.text.text[0] = *p; SDL_PushEvent(&ev); }
+        }
+        else if (!strcmp(l->cmd, "quit")) running = 0;
+    }
+}
+
+static void framedump_write(void)
+{
+    static uint8_t *rgb;
+    if (!framedump) return;
+    if (!rgb) rgb = malloc(640 * 480 * 3);
+    for (int y = 0; y < 480; y++) {
+        for (int x = 0; x < 640; x++) {
+            uint32_t p;
+            if (out_f == 2 && screen_w == 320 && screen_h == 240) p = out_px[y * 640 + x];
+            else {
+                int sx = x * screen_w / 640, sy = y * screen_h / 480;
+                p = screen_px[sy * screen_w + sx];
+            }
+            uint8_t *d = rgb + (y * 640 + x) * 3;
+            d[0] = p >> 16; d[1] = p >> 8; d[2] = p;
+        }
+    }
+    fwrite(rgb, 1, 640 * 480 * 3, framedump);
+}
 
 /* --------------------------------------------------------------- video ---- */
 static void video_apply(void)
@@ -555,6 +644,9 @@ int main(int argc, char **argv)
         else if (!strcmp(argv[i], "-hidegui")) hidegui = 1;
         else if (!strcmp(argv[i], "-noautohide")) gui_auto_hide = 0;
         else if (!strcmp(argv[i], "-cfg") && i + 1 < argc) i++;
+        else if (!strcmp(argv[i], "-script") && i + 1 < argc) script_load(argv[++i]);
+        else if (!strcmp(argv[i], "-framedump") && i + 1 < argc) framedump = fopen(argv[++i], "wb");
+        else if (!strcmp(argv[i], "-exitafter") && i + 1 < argc) exit_after = atoi(argv[++i]);
         else if (!strcmp(argv[i], "-version") && i + 1 < argc) { i++; region_pref = !strcasecmp(argv[i], "USA") ? 1 : !strcasecmp(argv[i], "Europe") ? 2 : !strcasecmp(argv[i], "Japan") ? 3 : 0; }
         else if (!strcmp(argv[i], "-?") || !strcmp(argv[i], "-h") || !strcmp(argv[i], "--help")) { usage(argv[0]); return 0; }
         else if (argv[i][0] != '-') rom = argv[i];
@@ -636,19 +728,32 @@ int main(int argc, char **argv)
         double frame_t = vfps_override ? 1.0 / vfps_override : (emu.pal ? 1.0 / 50.0 : 1.0 / 59.92);
         accum += dt;
         int frames = 0;
-        while (accum >= frame_t && frames < 4) {
+        if (framedump || nscript) {
+            /* deterministic mode: exactly one emulated frame per loop iteration */
+            script_tick();
             emu_frame();
             audio_push();
             gui_tick();
-            accum -= frame_t;
-            frames++;
+            accum = 0;
+            frame_no++;
+            if (exit_after && frame_no >= exit_after) running = 0;
+        } else {
+            while (accum >= frame_t && frames < 4) {
+                emu_frame();
+                audio_push();
+                gui_tick();
+                accum -= frame_t;
+                frames++;
+            }
+            if (!emu.loaded || !emu.running) { if (frames == 0) gui_tick(); accum = 0; }
         }
-        if (!emu.loaded || !emu.running) { if (frames == 0) gui_tick(); accum = 0; }
         compose_frame();
         present();
+        framedump_write();
         if (!vsync) SDL_Delay(1);
     }
 
+    if (framedump) fclose(framedump);
     runtime_to_cfg(&cfg);
     cfg_save(&cfg, cfg_path);
     emu_shutdown();

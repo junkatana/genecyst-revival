@@ -159,7 +159,10 @@ Linux.
 
 Command line: `-run <rom>`, `-res <w> <h>`, `-scale <n>`, `-filter <name>`,
 `-romdir`, `-savedir`, `-pcxdir`, `-logdir`, `-patdir`, `-nosound`, `-hidegui`,
-`-noautohide`, `-version USA|Japan|Europe`, `-cfg <file>`.
+`-noautohide`, `-version USA|Japan|Europe`, `-cfg <file>`. Developer options:
+`-script <file>` feeds scripted mouse/keyboard events by frame number,
+`-framedump <file>` writes every frame as 640x480 raw RGB (how the
+presentation video was recorded), `-exitafter <frames>`.
 
 ## Layout
 
