@@ -90,6 +90,15 @@ from the bitmaps and tables embedded in `GENECYST.EXE`:
 | ![ROM patcher](docs/screenshots/patcher.png) | ![FM info overlay](docs/screenshots/fm-info.png) |
 | ![CRT filter](docs/screenshots/filter-crt.png) | ![2xSaI filter](docs/screenshots/filter-2xsai.png) |
 
+## Curious about the Dragon Quest III screenshots?
+
+Yes, that is Dragon Quest III running on a Mega Drive. It is a demo of a fan
+port in progress by the author of this project. If you want to follow that
+work (and other Mega Drive experiments), find me at:
+
+* X / Twitter: https://x.com/junkatanagames
+* YouTube: https://www.youtube.com/@junkatana
+
 ## Build
 
 Linux:
