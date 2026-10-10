@@ -1,0 +1,5885 @@
+SRVW
+_^Z[
+SQRVW
+?=u
+_^ZY[
+,A<
+SQVW
+_^Y[
+QVWU
+<\t3
+<.t.
+</t)
+=;t
+]_^Y
+SQVW
+t	&
+_^Y[
+WATCOM C/C++16 Run-Time system. (c) Copyright by WATCOM International Corp. 1988-1994. All rights reserved.
+*** NULL assignment detected
+Not enough memory
+con
+  =nou	
+=87u
+Xt1
+SPR
+!XP
+%<Ar
+<Zw
+FGK
+SQVW
+_^Y[
+X_^
+QVW
+_^Y
+QVWU
+?	u
+<\t
++F|
+F~;Fxv
+?	u
+=;u
+]_^Y
+SQVWU
+]_^Y[
+SQV
+@u$
+^Y[
+WVRQ>
+YZ^_
+WVQ>
+Y^_
+SQRVW
+_^ZY[]
+QVWU
+< t
+<	u
+<"u;F
+<"t.
+<\u
+< t%
+<	t 
+<\u
+]_^Y
+SQRVW
+&:'t
+_^ZY[
+SQRVW
+_^ZY[
+QVW
+_^Y
+[	XQVW
+PRS
+~ZMZt
+~ZZMu
+~d+~b
+NxP
+_^Y
+SQR
+ZY[
+XSR
+XSQR
+XSQ
+XQVW
+PPRS1
+?Mt
+w,P
+?Mt8
+SQRVW
+G6&
+&;w2r
+QVW
+_^Y
+SQRVW
+L;D
+ u.
+_^ZY[
+WVIDEO
+SRV
+^Z[
+VWQ
+r>$
+Y_^
+VWQ
+wV)
+Y_^
+SVW
+_^[
+SRVWU
+]_^Z[
+Stack Overflow!
+SQRVWU
+< u
+@t%
+]_^ZY[
+SQRVU
+ t1
+QVWU
+CB;^
+]_^Y
+VWU
+]_^
+Ct09
+UVW)
+Mx"
+_^]
+VWU
+@CC
+GGC
+]_^
+VWU
+t!FF
+]_^
+!ss<
+!Bad format on exec
+$Bad environment on exec
+$Not enough memory on exec
+!ss<
+!Bad format on exec
+$Bad environment on exec
+$Not enough memory on exec
+KK&
+VWU
+]_^
+SRVW
+_^Z[
+SQRVW
+_^ZY[
+QVWU
+]_^Y
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQVW
+_^Y[
+SQRVW
+_^ZY[
+SVW
+7_^[
+SQR
+SQVWU
+D	t
+]_^Y[
+SQVWU
+RP0
+SQV
+^Y[
+DOS4GPATH
+PATH
+.exe
+dos4gw.exe
+Stub exec failed:
+Error 0
+No such file or directory
+Argument list too big
+Exec format error
+Bad file number
+Not enough memory
+Permission denied
+File exists
+Cross-device link
+Invalid argument
+File table overflow
+Too many open files
+No space left on device
+Argument too large
+Result too large
+Resource deadlock would occur
+unknown error
+PATH
+.com
+.exe
+Not enough memory on exec
+Not enough memory to allocate file structures
+ 0 
+gendos
+(eH
+(eI
+(eI
+)eI
+(eI
+(eI
+(eI
+)eI
+(eI
+(eI
+(eI
+)eI
+(eI
+,eI
+0eI
+(eI
+(eI
+(eI
+(eI
+,eI
+0eI
+4eI
+4eI
+8eI
+8iI
+4iI
+8iI
+4eI
+4eI
+SQVWU
+8Du	
+@	$
+t/f
+t/f
+u,f
+]_^Y[
+SQRVWU
+]_^ZY[
+SVWU
+]_^[
+SVWU
+]_^[
+QVWU
+= C
+5 C
+5 C
+]_^Y
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+SVWU
+]_^[
+SVWU
+]_^[
+SVWU
+]_^[
+SVWU
+]_^[
+SVWU
+Ot	
+]_^[
+SVWU
+Ot	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ot	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+Ot	
+]_^[
+SVWU
+Ou	
+]_^[
+SVWU
+]_^[
+SVWU
+=0C
+=4C
+=8C
+=<C
+=@C
+]_^[
+SQRVWU
+=(C
+=(C
+5(C
+=$C
+]_^ZY[
+SVWU
+=(C
+]_^[
+SVWU
+=(C
+]_^[
+SVWU
+=(C
+]_^[
+SVWU
+=(C
+]_^[
+SVWU
+=,C
+=$C
+]_^[
+VWU
+]_^
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+VWU
+@;E
+@)E
+O#}
+]_^
+SQRVWU
+]_^ZY[
+SQVWU
+]_^Y[
+VWU
+f;E
+f;E
+]_^
+VWU
+]_^
+QVWU
++B*=
++B*
+]_^Y
+VWU
+f;P
+@ %
+]_^
+SQVWU
+/u	
+]_^Y[
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+QVWU
+]_^Y
+SQVWU
+]_^Y[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+T$$Rh
+T$ J
+T$ 
+hl/
+T$ 
+$ZY
+SQR
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+<ZY[
+SQR
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$8R
+T$xRh
+D$<
+u&J
+\ZY[
+hl/
+SQRV
+4$F
+^ZY[
+SQVW
+_^Y[
+_^Y[
+SQRVW
+Qh#
+Ph+
+_^ZY[
+SQRVWh/
+5DG
+_^ZY[
+SQR
+ZY[
+SQR
+SRhM
+hl/
+ZY[
+Rhl/
+ZY[
+SQVWU
+QhT
+hl/
+j	U
+Phj
+hl/
+]_^Y[
+SQRV
+Rh~
+hl/
+^ZY[
+SQVWU
+]_^Y[
+QVWU
+T$H
+\$D1
+t$D
+D$@
+|$H
+L$D
+2W+
+D$H
+T$@
+hl/
+;\$H
+L]_^Y
+SQVW
+:;tX
+_^Y[
+SQV
+^Y[
+SQV
+^Y[
+SRh
+SQRVWU
+hl/
+Vhn
+PBRh"
+}3k
+PhL
+PUQB
+Rhw
+PCSh
+tD1
+Rh2
+]_^ZY[
+VWU
+]_^
+VWU
+]_^
+SQRVWU
+]_^ZY[
+SQRVW
+_^ZY[
+_^ZY[
+SQVWU
+hl/
+]_^Y[
+QVWU
+t3h7
+hl/
+u9UWVhQ
+hl/
+]_^Y
+u5ht
+hl/
+]_^Y
+PPhd
+hl/
+]_^Y
+WVh
+hl/
+]_^Y
+hl/
+]_^Y
+UWVh
+hl/
+]_^Y
+u$h
+hl/
+Ph+
+hl/
+RhG
+hl/
+(Y[
+SQRVW
+(_^ZY[
+SQRVWU
+L$<
+t$@
+\$8
+\$8
+T$8
+|$L
+]_^ZY[
+D$|
+L$$
+L$|
+\$ 
+T$|
+|$0
+]_^ZY[
+D$p
+L$\
+L$p
+T$T
+\$X
+\$T
+T$p
+T$T
+|$h
+]_^ZY[
+SQRVWU
+(]_^ZY[
+SQRVWU
+(]_^ZY[
+SQRV
+^ZY[
+u!hU
+hl/
+^ZY[
+hl/
+^ZY[
+hl/
+^ZY[
+<$f
+SQRVW
+(_^ZY[
+SQRVW
+(_^ZY[
+SQRVWU
+(]_^ZY[
+SQRVWU
+4$1
+\$(
+D$(
+,]_^ZY[
+,]_^ZY[
+SQRVWU
+4$1
+\$(
+D$(
+,]_^ZY[
+,]_^ZY[
+SQRVWU
+L$D
+D$D
+D$ 
+T$$
+T$D
+\$0
+D$8
+L$81
+T$8
+T]_^ZY[
+\$P
+D$P
+T]_^ZY[
+T]_^ZY[
+SQRVWU
+(]_^ZY[
+SQVWU
+D$(
+t$(
+t$(
+,]_^Y[
+SQVWU
+D$(
+t$(
+t$(
+,]_^Y[
+QVWU
+D$,
+T$(
+t$,
+D$(1
+0]_^Y
+T$(
+D$,
+E W
+0]_^Y
+SQVWU
+(]_^Y[
+E W
+(]_^Y[
+SQRVW
+(_^ZY[
+SQR
+ZY[
+SQR
+hl/
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+s7f=
+r1v
+SQRf
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQVW
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+_^Y[
+SQR
+ZY[
+VWU
+]_^
+hl/
+]_^
+SQR
+ZY[
+SQRW
+_ZY[
+SQRW
+_ZY[
+hl/
+SQR
+Rh2
+hl/
+ZY[
+QVW
+_^Y
+SQVW
+_^Y[
+_^Y[
+SQVW
+taPQ
+_^Y[
+_^Y[
+_^Y[
+SQR
+ZY[
+SQR
+ZY[
+SQU
+QRf
+1[f
+]Y[
+SQR
+ZY[
+SQR
+ZY[
+D$,
+SQVWU
+]_^Y[
+SQRW
+_ZY[
+H^[
+H^[
+H^[
+QVW
+;4$
+_^Y
+VWU
+RQWS
+]_^
+VWU
+]_^
+SQVW
+_^Y[
+QVWU
+]_^Y
+SQR
+ZY[
+QRVW
+_^ZY
+QVWU
+SQRVWU
+QhL
+hl/
+s<V
+{8W
+k4U
+C0P
+S,R
+K(Q
+s$V
+{ Whx
+hl/
+(]_^ZY[
+SQR
+PVR
+XR1
+PQR1
+@PR%
+hl/
+(ZY[
+SQR
+PQh
+hl/
+ZY[
+PHRh
+hl/
+@ZY
+SQR
+PHR
+KfR;KHu
+hl/
+ZY[
+@@f
+@Df
+SQRVWU
+hl/
+]_^ZY[
+SQRVWU
+;Wh8
+Vj2
+-L/
+]_^ZY[
+SQRVWU
+;^Hu
+<`t
+SQR
+SQRVW
+X2R
+QhC
+hl/
+L_^ZY[
+hl/
+@ZY
+SQR
+hl/
+ZY[
+@Q$
+SQVWU
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+SQR
+t.h
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQRVW
+hl/
+F@h/
+F<j
+FHhl/
+F,1
+hl/
+_^ZY[
+SQR
+ZY[
+ZY[
+SQRVW
+@)`+
+C%+C
+C%+C
+C%+C
+_^ZY[
+SQRVW
+t?j
+j@1
+A%+A
+A!+A
+A%+A
+_^ZY[
+SQRVWU
+jA1
++P!1
+H!1
+x!1
+F!+F
+F!+F
+F%+F
+]_^ZY[
+SQVWU
+N5A
+^!1
+F5R
+]_^Y[
+SQRVW
+t_h
+Z%+Z
+Z!)
+C!+C
+C!+C
+C%+C
+_^ZY[
+SQV
+^Y[
+SQVWU
+@-j
+@-U
+tl1
+-P/
+F1P
+]_^Y[
+P1B
+X11
+SQRVW
+Z%+Z
+Z!)
+_^ZY[
+SQV
+^Y[
+SQVWU
+]_^Y[
+X19
+H-9
+p59
+SQRVWU
+jA1
++P!1
+H!1
+x!1
+]_^ZY[
+SQV
+^Y[
+SQVWU
+t_1
+4$1
+]_^Y[
+SQRj@1
+ZY[
+SQV
+@)`+
+^Y[
+SQVWU
+]_^Y[
+v 1
+SQRV
+@)`+
+^ZY[
+SQV
+V<^Y[
+SQVWU
+^-)
+^1)
+F!)
+PRSj
+F!)
+PRSj
+PRSj
+F!)
+PRSj
+]_^Y[
+SQRVWU
+@)0,
+A!+A
+A%+A
+A!+A
+A%+A
+A!+A
+A%+A
+]_^ZY[
+SQVW
+_^Y[
+QVWU
+;p-u
+;x1tT
+Y1)
+P!)
++Q-
+]_^Y
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQVWU
+Q!+Q
+]_^Y[
+@%+B
+@!+B
+SRU
+]Z[
+QVWU
+]_^Y
+QVWU
+]_^Y
+QVWU
+QVWU
+SQVWU
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+CF1
+$?%
+rWv%
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+QVW
+_^Y
+QVW
+_^Y
+VWU
+\$0
+#l$
+T$4
+D$,P
+T$ RGC
+T$,
+;L$
+T$4R
+|$(WP
+T$$
+L$4Q
+D$,PUGC
+T$,
+ ]_^
+VWU
+PCG
+]_^
+VWU
+@"1
+]_^
+VWU
+P&0
+]_^
+VWU
+P&0
+]_^
+VWU
+VQj
+u!1
+h@@@@
+G 0
+G %
+]_^
+QVWU
+F@9
+]_^Y
+SQV
+PhX
+hl/
+0^Y[
+SQRVWU
+w9.
+Rha
+hl/
+]_^ZY[
+SQRVW
+Phy
+hl/
+_^ZY[
+SQRVW
+hl/
+hl/
+_^ZY[
+hl/
+QVWU
+hl/
+]_^Y
+VWU
+hl/
+]_^
+QVWU
+]_^Y
+QVWU
+hl/
+]_^Y
+D$	
+]_^Y
+hl/
+]_^Y
+hl/
+hl/
+Shx
+hl/
+SQRVU
+~3f
+]^ZY[
+SQRVW
+hl/
+_^ZY[
+SQRV
+<Jr v
+<Ut
+<Et
+^ZY[
+^ZY[
+^ZY[
+SQVWU
+hl/
+]_^Y[
+hl/
+]_^Y[
+hl/
+]_^Y[
+(eH
+vvvv
+6u[
+]_^Y[
+hl/
+Ph.
+hl/
+PhL
+hl/
+SQRVW
++sh
+{h1
+_^ZY[
+SQR
++CX
+ZY[
+SQR
+COZY[
+PKf
+!PK
+QVWU
+ZG9
+JK9
+HG)
+rG!
+xG)
+ZG9
+XG)
+[W@f
+]_^Y
+QVWU
+PK;PGu
+HGf
+LHYf
+<	A
+xG9
+HG;HKu
+]_^Y
+HWf
+]_^Y
+QVWU
+,$<
+yO)
+QS,
+]_^Y
+]_^Y
+qT)
+]_^Y
+QH)
+]_^Y
+^D)
+xH)
+]_^Y
+QVW
+_^Y
+_^Y
+QVW
+_^Y
+_^Y
+SQR
+ZY[
+ZY[
+SQVWU
+]_^Y[
+QVW
+_^Y
+QVW
+QhY
+_^Y
+QVW
+Ph`
+_^Y
+SQVWU
+]_^Y[
+@t4
+]_^Y[
+@t>
+]_^Y[
+]_^Y[
+@t(
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+r	v
+uK;
+rD;
+v)_Y
+SWU;
+]_[
+SR=
+SQR
+ZY[
+s8=
+ZY[
+ZY[
+t&1
+SQV
+r!1
+^Y[
+^Y[
+^Y[
+SQR
+H<0
+XT;X@s
+@7 
+ZY[
+tB[
+SQV
+P!)
+@-V%
+^Y[
+__^
+SQV
+@-S
+^Y[
+p-^
+SQj
+PSRQ
+SQVWU
+]_^Y[
+@)h2
+SQVWU
+F!HP
+F!WHPj
+F%HP
+F!HP
+Wj	S
+F!UHPj	S
+F%HP
+]_^Y[
+SQV
+^Y[
+^Y[
+SQV
+^Y[
+^Y[
+__^
+A)(2
+A%W
+SQVW
+_^Y[
+PBRQ
+[6S
+C%W
+SQVW
+HIPK
+@Pj
+PBRW
+V5@
+_^Y[
+SQV
+^Y[
+^Y[
+QVWU
+R%+P
+Q%)
+P!)
+Q!+Q
+A%]_^Y
+__^
+P!C
+VWU
+@%+G
+@!+G
+G)h1
+]_^
+SQV
+^Y[
+SQVWU
+@%@
+@IP
+SRj
+PRj
+]_^Y[
+VW;P}u
+VWU
+@)(1
+]_^
+SQV
+^Y[
+Q0^Y[
+SQR
+ZY[
+QVWU
+]_^Y
+]_^Y
+]_^Y
+VWU
+z%)
+WS1
+@)(3
+]_^
+VWU
+@)(3
+]_^
+SQR
+X19
+H59
+H-ZY[
+@)h0
+SQV
+H1;H5t+
+K%AQ
+^Y[
+;p9u	
+P-J
+;q=u
+QVW
+y-_^Y
+@1;F5~
+^59
+FA)
+X)B
+SD^Y
+SQV
+S59
+^Y[
+SS1
+@)(0
+p6^Y
+S:)
+C6+P
+S:)
+C6+P
+SQVW
+K%)
+B!)
+Z!+Z
+_^Y[
+SQVW
+B%+B
+Z9P
+Z%+Z
+_^Y[
+SQV
+C!)
+PRQj	V
+^Y[
+K19
+S%+S
+;K%
+;S!~ 
+S%+S
+x1)
+R@_^
+SQVW
+S%+S
+_^Y[
+SQVW
+J!)
+S!+S
+_^Y[
+SQR
+ZY[
+VWU
+^%)
+]_^
+VWU
+@)P.
+N!)
+]_^
+SQVWU
+AAH9
+;QIt\
+yI;x-}
+V<]_^Y[
+V%+V
+P!+P
+N!)
+SQU
+AE9
+;YA
+YA9
+AU1
+AE]Y[
+SQRVWU
+N;CQ|:
+SIH9
+]_^ZY[
+]_^ZY[
+SQVWU
+@IPK
+F!)
+PRSj
+]_^Y[
+PAJ
+PI+PQ
+XIJ9
+SQVWU
+]_^Y[
+VWU
+;FA}o
+;VIu&
+^M)
+VMK
+]_^
+VWU
+]_^
+VWU
+;FA}o
+;NIu#
+F!)
+VMK
+]_^
+SQVW
+_^Y[
+SQVW
+_^Y[
+APh^
+SQR
+ZY[
+SQRVW
+XA1
+_^ZY[
+SQRVWU
+]_^ZY[
+SQVW
+__^Y[
+_^Y[
+SQVW
+YA1
+_^Y[
+VWU
+@)p5
+U%]_^
+SQVWU
+V-@
+N}R
+SHPj
+^}P
+]_^Y[
+SQRV
+V<^ZY[
+SQVW
+_^Y[
+VWU
+@)(5
+]_^
+VWU
+]_^
+SQRV
+^ZY[
+Vu	
+VWU
+]_^
+VWU
+F!)
+P!+P
+F!)
+P!+P
+]_^
+@)@4
+SQR
+Q<ZY[
+SQR
+Q<ZY[
+SQR
+ZY[
+SQV
+V<^Y[
+SQV
+V<^Y[
+QVWU
+W<;
+V<1
+]_^Y
+W<;
+V<1
+]_^Y
+SQR
+Q<ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+QVWU
+W<;
+V<1
+]_^Y
+W<;
+V<1
+]_^Y
+VWU
+]_^
+]_^
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+p-^
+SQVW
+_^Y[
+_^Y[
+SQV
+^Y[
+q1^Y[
+^Y[
+SQR
+ZY[
+SQV
+^Y[
+VWU
+@)D7
+]_^
+SQVWU
+@%)
+E!)
+PRWj
+]19
+u3j
+QWj
+]_^Y[
+VWU
+]_^
+SQVWU
+W@;F1tR
+]_^Y[
+VWU
+@)T6
+@)D7
+]_^
+SQVWU
+F!)
+PRSj
+;~1u5
+PQj
+t#j
+F!Q
+]_^Y[
+VWU
+;-t
+]_^
+F!9
+;V%}
++F%1
+SQV
+^Y[
+SQVW
+p9)
+_^Y[
+SQV
+^Y[
+SQV
+^Y[
+VQSRP
+^!9
+SQWU
+]_Y[
+SQR
+ZY[
+QVWU
+|H;p!
+C;x
+|>;x%
+Q 1
+]_^Y
+QVWU
+]_^Y
+SQV
+^Y[
+q)1
+SQV
+tRt
+^Y[
+^Y[
+SQV
+P!)
+RQ1
+^Y[
+X%S
+H!Q
+SQV
+B%+B
+B!)
+^Y[
+QVWU
+]_^Y
+$80
+A"Y
+$>0
+A&Y
+A$Y
+A Y
+$?0
+t	1
+u	f
+u	f
+u 1
+SQVWU
+C(0
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+SQV
+^Y[
+SQVWU
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+P(0
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+]_^Y[
+:6t
+p(f
+QVWU
+]_^Y
+i(1
+]_^Y
+f;u
+$~%
+$~1
+y(f
+]_^Y
+]_^Y
+$~f
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+SQRVWU
+]_^ZY[
+s(f
+s(f
+f;u
+]_^ZY[
+SQVW
+H(f
+<11
+>f;|$
+<1f
+_^Y[
+SQVW
+<1:
+|cf
+_^Y[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+@(1
+l$ UWVh
+hl/
+]_^ZY[
+SQRV
+PSh 
+hl/
+^ZY[
+SQV
+K(f
+^Y[
+^Y[
+^Y[
+^Y[
+<#r
+<%t
+^Y[
+<!t
+^Y[
+^Y[
+SQV
+^Y[
+^Y[
+^Y[
+^Y[
+<#r
+<%t
+^Y[
+<!t
+^Y[
+^Y[
+SQRU
+]ZY[
+SQRVU
+]^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVU
+SQRVWU
+]_^ZY[
+SQRVW
+hl/
+_^ZY[
+SQR
+hl/
+ZY[
+QVWU
+]_^Y
+=,-
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+B(1
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+=l"
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+SQRVU
+5,-
+5,-
+%--
+]^ZY[
+QVWU
+V(1
+JD;JH~9
+HH9
+]_^Y
+]_^Y
+]_^Y
+]_^Y
+SQVW
+_^Y[
+_^Y[
+SQRV1
+^ZY[
+SQRV
+QVW
+__^Y
+SQRVW
+_^ZY[
+VWU
+@Dj
+PQWj
+F8Ph
+]_^
+QVWU
+Wh"
+]_^Y
+QVWU
+]_^Y
+QVW
+0Vh8
+_^Y
+SQRVW
+_^ZY[
+SQR
+ZY[
+ZY[
+ZY[
+SQR
+@ZY[
+SQVW
+_^Y[
+u01
+r	1
+SQR
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+ZY[
+SQRV
+^ZY[
+SQR
+ZY[
+SQR
+;L$
+ZY[
+SQRU
+C 9
+	;C(
+C$;C0
+	;C4|
+]ZY[
+C,Z[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+SQR
+ZY[
+R$Z
+SRV
+S$;P
+S(;P
+	;P
+^Z[
+QVW
+{*W
+z<W
+_^Y
+SQRVWU
+@)0,
+t/jj
+~1h
+uf1
+]fG
+^1jx
+URS
+uj1
+]jG
+]j@
+=$.
+]_^ZY[
+SQRVWU
+@)0,
+t/jj
+~1h
+uj1
+]jG
+^1jx
+URS
+un1
+]nG
+]n@
+=$.
+]_^ZY[
+SQV
+5 .
+5$.
+^Y[
+QVWU
+;SY
+@)0,
+@)(=
+v-jF
+@)p=
+;B]
+j_1
+jd1
+@)0,
+A)d<
+S-9
+]_^Y
+SQVWU
+T$ 1
+50/
+\$$
+50/
+\$$
+sM)
+CA)
+SQ)
+KE)
+{=)
+SI)
+50/
+\$$
+54/
+\$$
+-4/
+\$$
+$]_^Y[
+SQVU
+]^Y[
+VWU
+T$ 
+L$$;
+L$<Q
+|$,WUj
+D$4P
+Phc
+D$$
+\$ 
+(]_^
+A!)
+A)d<
+SQVWU
+S!+S
+S%+S
+]_^Y[
+SQV
+C1t	
+S5P
+^Y[
+C1Y[
+SQVU
+@)(=
+]^Y[
+VWU
+PUSj
+]_^
+VWjF
+A)p=
+QS1
+@)0,
+SQRV1
+^ZY[
+SQR
+ZY[
+QRPh
+hl/
+SQRV
+<$ u
+<$[u
+HPh
+hl/
+<$]u
+@Ph
+hl/
+^ZY[
+SQR
+ZY[
+SQR
+@)$>
+ZY[
+@)$>
+QVW
+A%_^Y
+QVWU
+]_^Y
+QRVW
+_^ZY
+QRVW
+_^ZY
+Q4Y
+QVWU
+]_^Y
+SQV
+^Y[
+SQRVW
+_^ZY[
+VWU
+]_^
+QVWU
+]_^Y
+SQVW
+_^Y[
+Q,^Y
+SQVU
+]^Y[
+PSR
+SQRV
+hl/
+PSh
+hl/
+^ZY[
+SQR
+H)1
+ZY[
+SQR
+H)1
+ZY[
+SQRVWU
+8;t
+PUh
+hl/
+p)1
+]_^ZY[
+SQRV
+^ZY[
+SQVWU
+}H1
+}H1
+]_^Y[
+QVWU
+]_^Y
+Ae0?
+Ph:
+]_^Y
+PhD
+hl/
+]_^Y
+hl/
+]_^Y
+Ee0?
+Qh:
+]_^Y
+SQRVW
+jx1
+Z!+Z
+2Sj
+V!+V
+2Rj
+_^ZY[
+SQV
+^Y[
+QVWU
+;P5
+]_^Y
+;P9
+]_^Y
+]_^Y
+;P=
+]_^Y
+]_^Y
+;PAu
+yE9
+uPuh
+]_^Y
+]_^Y
+SQRVWU
+jx1
+Z!+Z
+2Sj
+V!+V
+2Rj
+]_^ZY[
+VWU
+;FA
+;NIu#
+F!)
+VMK
+]_^
+SQR
+ZY[
+ZY[
+SQVW
+@e0?
+_^Y[
+SQRVW
+_^ZY[
+_^ZY[
+SQRVW
+_^ZY[
+_^ZY[
+VWU
+<3;=
+WRV
+]_^
+VWU
+QSWUP
+]_^
+SQVWU
+]_^Y[
+SQVWU
+~0F
+(F8
+]_^Y[
+VWU
+~A1
+~,G1
+]_^
+QVWU
+@KJ
+]_^Y
+QRVW
+_^ZY
+SQVWU
+@B=
+QVW
+_^Y
+VWU
+]_^
+QVWU
+~^1
+]_^Y
+VWU
+D$	1
+]_^
+QVW
+_^Y
+VWU
+\$0
++D$
+ ]_^
+48:
+:l$
+@B9
+SQRVWU
+Mt)h
+]_^ZY[
+u)h
+]_^ZY[
+2jD
+u)h
+]_^ZY[
+]_^ZY[
+VWU
+RQSVP
+QHPSVW
+PUSVW
+UHPVW
+]_^
+SQRVWU
+~@1
+Qh 
+Ph-
+hl/
+|$0
+|$`
+PhA
+hl/
+]_^ZY[
+SQRVWU
+t?;
+]_^ZY[
+SQRVW
+$hX
+hl/
+_^ZY[
+SQRVWU
+t>Uht
+hl/
+hl/
+]_^ZY[
+SQVW
+_^Y[
+SQV
+RPS
+RPS
+^Y[
+VWU
+]_^
+SQR
+t6h
+hl/
+ZY[
+SQR
+ZY[
+hl/
+ZY[
+SQR
+ZY[
+SQVW
+{pW
+__^Y[
+SQRVWU
+hl/
+vvvv
+{ W
+hl/
+]_^ZY[
+SQRVWU
+hl/
+vvvv
+u#h
+hl/
+z W
+@~f
+Ph1
+hl/
+]_^ZY[
+SQR
+ZY[
+SQRVWU
+;5|d
+]_^ZY[
+SQV
+^Y[
+^Y[
+SQVW
+_^Y[
+VWU
+=|d
+]_^
+SQVWU
+@)0,
+J%+J
+J!)
++N5
+G11
+]_^Y[
+QVWU
+p8W
+]_^Y
+]_^Y
+SQRVW
+tpj-1
+jx1
+j(j
+j(j
+_^ZY[
+rFv
+uCh
+hl/
+hl/
+hl/
+SQRVWU
+@-l/
+]_^ZY[
+QRVW
+Rh]
+hl/
+_^ZY
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+ZY[
+SQR
+hl/
+C Ph
+hl/
+C"Ph
+hl/
+C$Ph$
+hl/
+C&Ph2
+hl/
+ZY[
+Rh@
+hl/
+Phf
+hl/
+Pht
+hl/
+hl/
+hl/
+SQRV
+^ZY[
+SQR
+ZY[
+ZY[
+SQRV
+hl/
+ ^ZY[
+tF;
+hl/
+hl/
+SQRVWU
+]_^ZY[
+SQR
+ZY[
+SQV
+^Y[
+SQRV
+j-1
+jx1
+j(j
+j(j
+^ZY[
+SQV
+^Y[
+SQRVWU
+jF1
+@!+B
+P!+P
+t h
+P!+P
+t h
+P!+P
+t h
+P!+P
+C!+C
+C!+C
+C!+C
+C%+C
+]_^ZY[
+QVW
+_^Y
+SQRVWU
+jF1
+@!+B
+P!+P
+P!+P
+P!+P
+P!+P
+]_^ZY[
+SQV
+@)<@
+^Y[
+SQRVWU
+j-1
+@)<@
+$hr
+C!+C
+C%+C
+C%+C
+]_^ZY[
+SQRV
+j-1
+@)<@
+$hr
+P^ZY[
+SQV
+^Y[
+SQVWU
++K5
+G11
+F-S
+]_^Y[
+SQVWU
++H5
+G11
+]_^Y[
+QVWU
+@)0,
+J%+J
+J!)
++N5
+G11
+]_^Y
+SQRV
+A11
+^ZY[
+SQR
+t!h
+ZY[
+SQVWU
+=$e
+]_^Y[
+=$e
+SQRVU
+=$e
+t"1
+]^ZY[
+SQVU
+Ph#$
+=$e
+t"1
+Qh>$
+]^Y[
+SQVWU
+Ph^$
+=$e
+t%1
+Why$
+]_^Y[
+SQRV
+=$e
+t"1
+^ZY[
+SQVW
+:.u
+:\u
+_^Y[
+SQV
+8.u
+.^Y[
+^Y[
+ Y[
+ Y[
+SQRV
+SQV
+^Y[
+VWSQ
+Y[_^]
+VWSQ
+Y[_^]
+VWSQ
+wY[_^]
+VWSQ
+wY[_^]
+SWV3
+^_[]
+3a]
+SQR
+ZY[]
+-ty
+gQ2
+GV[
+GR[
+GHX_
+GV3
+GQ'a
+GLX
+UVWS
+oP3
+oP+wL
+oZ[_^]
++WL
+(eI
+xV4
+xV4
+(eI
+)eI
+(eI
+(eI
+(eI
+)eI
+(eI
+(eI
+(eI
+)eI
+(eI
++GL
+PQV
+PQV
+PQV
+PQV
+ RPQV
+YXZ+
+ RPQV
+YXZ+
+ RPQV
+YXZ
+ RPQV
+YXZ
+W J
+W J
+W$J
+W$J
+W(J
+W(J
+W,J
+W,J
+W0J
+W0J
+W4J
+W4J
+W8J
+W8J
+W f
+W f
+W f
+W f
+W$f
+W$f
+W$f
+W$f
+W(f
+W(f
+W(f
+W(f
+W,f
+W,f
+W,f
+W,f
+W0f
+W0f
+W0f
+W0f
+W4f
+W4f
+W4f
+W4f
+W8f
+W8f
+W8f
+W8f
+W<f
+W<f
+W<f
+W<f
+oP3
+oP3
+GQ 
+oP3
+GQ 
+oP3
+GPf
+GQ 
+GQ 
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f)G
+f+G
+f+G
+f+G
+f+G
+f+G
+f+G
+f+G
+)G 
+)G 
+)G 
+)G 
+)G$
+)G$
+)G$
+)G$
+)G(
+)G(
+)G(
+)G(
+)G,
+)G,
+)G,
+)G,
+)G0
+)G0
+)G0
+)G0
+)G4
+)G4
+)G4
+)G4
+)G8
+)G8
+)G8
+)G8
+)G<
+)G<
+)G<
+)G<
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f	G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f!G
+f#G
+f#G
+f#G
+f#G
+f#G
+f#G
+f#G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+f3G
+oP _P
+oP3
+GQ 
+GP#
+oP3
+oP3
+GQ 
+oP3
+GQ 
+GP3
+oP3
+oP0_P
+oP3
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+f9G
+9G [
+9G [
+9G [
+9G [
+9G$[
+9G$[
+9G$[
+9G$[
+9G([
+9G([
+9G([
+9G([
+9G,[
+9G,[
+9G,[
+9G,[
+9G0[
+9G0[
+9G0[
+9G0[
+9G4[
+9G4[
+9G4[
+9G4[
+9G8[
+9G8[
+9G8[
+9G8[
+9G<[
+9G<[
+9G<[
+9G<[
+GQ 
+P+wL
++GL
+$At
+$Au
+$@t
+$@u
++GL
+$At
+$Au
+$Au
+$At
+$@u
+oP3
+oP3
++wL
++wL
+wHj,
++wL
+wHj(
+#C2e x\
+#C2e x^
+VWSRQ
+#C2e x`
+@@@@
+YZ[_^]
+#C2e
+r0X
+YWPQWV
+^_YX
+8PQWV
+^_YX
+r3X
+YWPQWV
+^_YX
+8PQWV
+^_YX
+WPQWV
+^_YX
+#C2e
+r-3
+YPQWV
+^_YX
+8PQWV
+^_YX
+r03
+YPQWV
+^_YX
+8PQWV
+^_YX
+PQWV
+^_YX
+VWSRQ3
+#C2e
+@@@@
+YZ[_^]
+#C2e xd
+#C2e xf
+VWSRQ
+#C2e 
+YZ[_^]
+#C2e
+r4X
+YWPQWV
+^_YX
+8PQWV
+^_YX
+r7X
+YWPQWV
+^_YX
+8PQWV
+^_YX
+#C2e
+r13
+YPQWV
+^_YX
+8PQWV
+^_YX
+r43
+YPQWV
+^_YX
+8PQWV
+^_YX
+VWSRQ3
+#C2e
+YZ[_^]
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+oZ[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+VWUSQ
+xV4
+xV4
+xV4
+SRQ
+xV4
+xV4
+xV4
+xV4
+xV4
+Z[E|
+Y[]_^
+WVRU
+~W;-
+]Z^_
+WVRU
+~W;-
+]Z^_
+mWVRU
+~Q;-
+]Z^_
+WVRU
+~Z;-
+]Z^_
+WVRU
+~Z;-
+]Z^_
+sWVRU
+~W;-
+]Z^_
+WVRU
+~Z;-
+]Z^_
+@+=
+WVRU
+~Z;-
+]Z^_
+@+=
+sWVRU
+~W;-
+]Z^_
+@+=
+WVRU
+~];-
+]Z^_
+@+=
+WVRU
+~];-
+]Z^_
+@+=
+pWVRU
+~T;-
+]Z^_
+@+=
+WVRU
+~P;-
+]Z^_
+WVRU
+~P;-
+]Z^_
+fWVRU
+~J;-
+]Z^_
+WVRU
+~S;-
+]Z^_
+WVRU
+~S;-
+]Z^_
+lWVRU
+~P;-
+]Z^_
+WVRU
+~S;-
+]Z^_
+@+=
+WVRU
+~S;-
+]Z^_
+@+=
+lWVRU
+~P;-
+]Z^_
+@+=
+WVRU
+~V;-
+]Z^_
+@+=
+WVRU
+~V;-
+]Z^_
+@+=
+iWVRU
+~M;-
+]Z^_
+@+=
+Ptp
+|a9
+|Y9E
+|T9
+uDVW
+_^[]
+~V+E
+_^[]
+G3a
+!G8
+	G8
+O6YX
+;O<
+;O@
+"G7
+PSQRVW
+OT%
+Wd_^ZY[X
+}	f
+}	f
+UVWS3
+N+wPf
+OT[_^]
+GX+GT=
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
++wP
+G	 u
+O	 
+G	@u
+O	@
+ujU
+wa]
+VWQ
+Y_^
+QVW
+Ya]
+VWQ
+Y_^N
+QVW
+Ya]
+SQVW
+_^Y[]
+VWQ
+VWQ
+Y_^
+Y_^]
+VWQ3
+wY_^
+Y_^
+Y_^
+WVRS
+[Z^_]
+SVW
+tJ3
+|<9
+|49E
+|/9
+_^[]
+~e+E
+~O+
+$P3
+~@+E
+~*+
+_^[]
+~&PO
+~	O
+~	O
+|m;
+|M;
+|Q;
+|1;
+_[]
+SVW
+GIu
+_^[]
+_^]
+SVW
+_^[
+SVW
+_^[
+SVW
+_^[
+SVW
+_^[
+rXv
+PPj!
+D$ 
+D$ 
+D$ f
+PPj!
+VWU
+u;h,eI
+h0eI
+h(eI
+(eI
+5(eI
+(eI
+,eI
+0eI
+T$$R
+\$$SSj/
+]_^
+D$,
+PPj1
+T$0f
+D$4
+T$8f
+D$<
+D$,f
+PPj1
+L$h
+t$l
+D$PP
+D$d
+D$80
+d$9
+D$Vf
+D$P
+D$H
+D$PP
+D$8PP
+j1f
+T$Df
+\$L
+D$ 0
+L$l
+t$p
+|$t
+D$"f
+D$$
+D$PP
+D$h
+D$80
+d$9
+D$Vf
+D$P
+D$H
+D$PP
+D$8PP
+j1f
+T$Df
+\$L
+D$"f
+D$,f
+D$0f
+D$$f
+D$ 0
+\_^
+D$41
+D$4P
+PPj1
+D$h
+|$h1
+T$hf
+D$X
+D$@
+D$@P
+PPj1
+D$Xf
+D$l
+D$lf
+D$(
+D$(P
+PPj1
+\_^
+PPj1
+\_^
+D$l
+D$lf
+D$L
+D$LP
+PPj1
+\_^
+\_^
+D$,f
+PPj1
+t	BK
+@BK
+SQRVW
+$$f
+_^ZY[
+SQRVU
+4eI
+t	9
+4eI
+]^ZY[
+QVW
+_^Y
+SQRV
++u%1
+ttJ
++u!
+^ZY[
+RPV
+QVW
+t!1
+_^Y
+SQR
+ZY[
+ZY[
+QVW
+_^Y
+SQVW
+_^Y[
+_^Y[
+QVW
+_^Y
+_^Y
+r	v
+uY_^Y
+u(_^Y
+_^Y
+SQVW
+A	t
+_^Y[
+SQVWU
+]_^Y[
+VWU
+4$1
+]_^
+t	C1
+ Y[
+t	C
+SQR
+ZY[
+SQR
+ZY[
+SQVWU
+]_^Y[
+QRVW
+_^ZY
+QVWU
+]_^Y
+VWU
+u41
+;T$
+u	1
+]_^
+SQRVWU
+]_^ZY[
+SQR
+,a1
+ZY[
+UWVRQSP
+8eI
+%8iI
+QSRP)
+[[YZ^_]
+!t%
+4iI
+SQR
+8iI
+ZY[
+ZY[
+VWU
+]_^
+vWATCOM C/C++32 Run-Time system. (c) Copyright by WATCOM International Corp. 1988-1995. All rights reserved.
+con
+RAHP)
+f=XDu>
+!Xf
+8f=CBu4
+t4f
+^OWR&f
+    =no87u
+#RP
+!XP
+QPR
+!YZ
+PSQVW
+_^Y[X
+PSQVW
+_^Y[X
+SQ1
+SQVWU
+]_^Y[
+!f@
+SQV
+^Y[
+/u?
+}Ej
+^Y[
+SQU
+/u	
+VWU
+]_^
+QVWU
+t%1
+/t	
+\CE
+]_^Y
+SQRVW
+_^ZY[
+!f6
+SQV
+^Y[
+?f=
++f@uQf
+tKf
+FJu
+PRS	
+*vi
+9u/
+|Cu6
+FJu
+FJu
+0123456789abcdefghijklmnopqrstuvwxyz
+QVWU
+\$$
+|$$1
+D$$A
+(]_^Y
+QVW
+D$ ;t$
+T$ 
+$_^Y
+SQRVWUP
+](9
+]_^ZY[
+QVWU
+]_^Y
+VWQ
+r@$
+s()
+Y_^
+VWQ
+{(9
+{ ;s$wV)
+{(9
+Y_^
+QRV
+4eI
+4eI
+^ZY
+SQRVW
+SQVWU
+B,9
+]_^Y[
+SQRVWP
+_^ZY[
+SQRVWP
+SQRVUP1
+<$8
+]^ZY[
+SRV
+^Z[
+^Z[
+t,8
+It	
+t:It)
+8P 
+@ u
+SQRVW
+t$$
+D$(%
+d$,
+T$(
+D$)
+D$(@t1
+D$( t
+D$0
+T$,f
+l$,
+D$(
+\$)
+_^ZY[
+SQRV
+ t;
+^ZY[
+SQRVW
+_^ZY[
+SQR
+ZY[
+SQR
+ u"
+ZY[
+SQRVWU
+ u(
+]_^ZY[
+SQR
+ZY[
+ZY[
+SQRV
+@u8
+^ZY[
+SQR
+ZY[
+ZY[
+SQRV
+^ZY[
+SQV
+^Y[
+QSR
+<$X
+Z[Y
+QSR
+M<	u
+Z[Y
+<$X
+QVWU
+%t%
+erU
+pr-
+it_
+Xr!
+GtZ
+%u'
+]_^Y
+SQV
+t/1
+lr4v
+^Y[
+SRV
+^Z[
+SQVW
+$f&
+_^Y[
+SQVW
+t"1
+$f&
+QVW
+t	f&
+_^Y
+_^Y
+SQV
+^Y[
+QVW
+T$$t
+D$(
+\$ 
+l$ 
+l$$
+D$(&
+_^Y
+SQVW
+T$\1
+|$`
+D$`
+l$`
+l$`
+$ %
+D$h
+$ %
+kD$j
+L$j
+$ %
+$ %
+$ %
+t:1
+T$XM1
+D$d
+D$Z1
+D$X
+t$d
+D$X
+D$Xf
+D$h
+et	
+$ %
+$ %
+L$`
+\$h
+T$P
+D$\
+D$\
+D$\
+D$h
+D$P&
+D$T&
+D$P
+T$T
+0uL
+Xu$
+0u:
+:u%
+0|	
+a|	
+tI1
+ u,
+ t,
+Sul
+$ %
+tA1
+QVW
+0|&
+!kK
+0|2
+*u"
+.uI@
+_^Y
+ht"_^Y
+Fr>v,
+_^Y
+_^Y
+_^Y
+_^Y
+QVW
+_^Y
+QVW
+QVWU
+]_^Y
+QVW
+<$k
+A;F
+!I1
+_^Y
+XrVv
+dtE
+er`
+or<
+sr#
+grb
+Pr3
+Gt<
+Su"
+$ %
+$ %
+tO1
+SQVW
+VWU
+;)r
+$f9
+]_^
+tZ1
+_^Y[
+ABN
+X[[[f
+4v.
+c f
+VWSR
+Z[_^
+VWS
+[_^
+SQRVWU
+]_^ZY[
+QVWU
+"u 
+tG1
+\u/
+"u!
+]_^Y
+sC1
+SQVW
+F&1
+_^Y[
+T$ 
+SQW
+D$\1
+D$41
+D$\
+L$4
+\$ff
+T$\
+D$@
+T$P
+T$4
+D$^=
+D$^f
+T$H
+D$ 0
+D$$
+p_Y[
+SQW
+tN1
+_Y[
+_Y[
+_Y[
+t?1
+t21
+@Z[
+SVW
+7H9
+_^[
+ ^Y
+PSQR
+ZY[X]
+tg=
+D$ 
+l$ 
+D$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+|$ 
+l$ 
+SQRVWU
+]_^ZY[
+SQRWU
+]_ZY[
+)D$
+SQVWU
+@u'
+]_^Y[
+SQVW
+~[1
+_^Y[
+_^Y[
+SQRVW
+UP;
+_^ZY[
+SQR
+ZY[
+SQR
+ZY[
+ZY[
+SQR
+ZY[
+SQRV
+^ZY[
+QVWU
+]_^Y
+SQR
+ZY[
+QVWU
+et"
+$_%
+]_^Y
+uDf
+M<f
+PPP6
+0QRS6
+PVW
+_^X
+X[ZYX
+QRSPUVW
+]<f
+t$<&t><.t
+<6t-<>t <dt7<et;<ft
+@>f
+>f!]
+>f	]
+>f	]
+@>f
+uCVWQ
+Y_^
+ev&
+ev&
+ev&
+ev&
+ev&
+ev.
+>f	]
+>f!]
+ev&
+ev&
+ev&
+ev&
+ev&
+ev.
+>f	]
+>f!]
+ev&
+ev&
+ev&
+ev&
+ev&
+ev.
+>f	]
+>f!]
+D/ &f
+D/$
+>f	]
+>f!]
+D/ &
+D/$&f
+ev&f
+ev&f
+ev&f
+ev&f
+ev&f
+ev.
+>f	]
+>f!]
+>f	]
+>f!]
+ev.
+>f	]
+>f!]
+D. 
+D/ f
+D.$f
+D/$
+El.
+Ep.f
+>f	]
+>f!]
+>f	]
+>f!]
+>f	]
+>f!]
+>f	]
+>f!]
+>f	]
+>f!]
+>f	]
+>f!]
+>f	]
+>f!]
+>f!]
+>f	]
+>f!]
+>f	]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+>f	]
+>f!]
+ev.
+D/ >
+Epf
+D/$>f
+Et.f
+>f!]
+>f	]
+>f	]
+Uv+
+ev.f
+>f!]
+>f	]
+D/ 
+D. f
+D/$f
+D.$.f
+>f!]
+D/ 
+D. f
+D/$f
+D.$.f
+>f!]
+>f!]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+ev.
+D/ >
+Epf
+D/$>f
+Et.f
+>f!]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+>f!]
+>f	]
+>f	]
+ev.
+>f!]
+>f	]
+>f	]
+>f	]
+>f!]
+VQSf
+VQSf
+VQSf
+t,S+
+tOf
+fMt?
+fEf
+fEf
+WVf
+fFu	
+0uSf
+fFu	
+2u=
+x6f
+f;r
+8;:
+VQSf
+u	f
+WVS
+XZ[
+_fO
+VQSf
+u	f
+VRP
+s(u
+fAf
+x	Qf
+?|Jf
+	[S
+t7f
+RQS
+fA#
+tAf
+[YZ
+QSVf
+fA#
+s!f
+r3f
+|'f
+ r	
+X^[Y
+?@|
+ |N.
+t8f
+ |S.
+t;f
+t.f
+?^_
+r$I
+?WVQ
+Y^_
+WVQ
+?u,
+Y^_
+RSf
+?|,Qf
+vqQ
+PRV
+h#,
+[ZY^_
+UVWRQSPf
+[YZ_^]
+|M+
+>f#E
+>f!U
+>f	E
+?f=
+u".f
+>f	E
+>f	E
+vp>[
+SRPh
+XZ[WVRQSP
+[YZ^_
+WVRQS+
+$PRV
+PRV
+PRV
+tvPRV
+\Ce
+PRV
+[YZ^_
+YSj
+KhC
+?+2
+UWRQS
+QVWf
+MD|
+[YZ_]
+?UWVRQS
+tff
+PRV
+PRV
+YY[
+s+QVf
+[YZ^_]
+WVRQSf
+u%f
+[YZ^_
+VQP
+UWQSVRP
+Y_]
+WVQSR
+Y^_
+SQVW
+t]%
+tQ1
+e@&
+_^Y[
+X@&
+,$f
+$fX
+t?)
+ pr
+0123456789abcdefghijklmnopqrstuvwxyz
+QVWU
+\$$
+|$$1
+T$$.
+(]_^Y
+SQRVW
+_^ZY[
+SQRVW1
+_^ZY[
+WVIDEO
+SQRVWU
+}	O
+}	O
+]_^ZY[
+SQR1
+ZY[
+uq1
+ZY[
+ZY[
+SQR
+;J	u	
+ZY[
+QVWU
+]_^Y
+GA1
+^Y]
+PSR
+Z[X]
+SQU
+]Y[
+]Y[
++]Y[
+]Y[
+VWU
+;,$
+]_^
+.@^
+~	N
+0@Iu
+8@Iu
+QVW
+>HJ
+_^Y]
+0@F
+Eu&
+t!1
+Euf
+_^]
+SQVW
+0|(
+et	
+_^Y[]
+SQRV
+$$0
+^ZY[
+SQRU
+]ZY[
+]ZY[
+SQRU
+SQR
+ZY[
+ZY[
+SQR
+ZY[
+ZY[
+SQR
+ZY[
+ZY[
+SQVWU
+4EVB
+ETB
+4E<B
+E:B
+|$ 
+$]_^Y[
+SQRVWU
+$@9
+C 1
+]_^ZY[
+SQVU
+]^Y[
+VWU
+]_^
+SQR
+ZY[
+SQRVWU
+QVWU
+t 1
+]_^Y
+SQV
+.u5
+/u6
+^Y[
+,ul
+]_^ZY[
+SQRVWU
++;N	t&
+]_^ZY[
+SQRVWU
+;Q	
+r8f=
+v:f=
+QVWU
+$sK
+]_^Y
+SQV
+^Y[
+SQR
+ZY[
+SQRVWU
+]$t	
+SQRV
+^ZY[
+SQRVW
+_^ZY[
+SQV
+	C$
+rUv
+^Y[
+SQR
+ZY[
+	X$
+SQV
+^Y[
+^Y[
+SQVW
+(_^Y[
+0^Y
+SR1
+d$$
+$t'
+SQV
+^Y[
+<	u
+PSR
+Z[X]
+SQRV
+^ZY[]
+PSQRV
+L$(
+D$ 
+D$ 
+D$ 
+D$ 
+D$$
+D$ 
+D$ 
+\$ 1
+D$ 
+D$ 
+\$ 
+D$ 
+^ZY[X
+SQRVW
+U R
+9GC
+_^ZY[]
+UVWQS
+0Cr
+[Y_^]
+[Y_^]
+UVWQSR
+[Y_^]
+SQRWU
+]_ZY[
+_^][[Z
+@ f
+X"f
+H$f
+`&f
+h(f
+P*)
+PRf
+X"X
+QVWUPRS
+]_^Y
+SQVWU
+]_^Y[
+PSR
+Z[X]
+.;O
+.;O
+SQRUVR
+t5v	
+^]ZY[
+UWQS
+00f
+X[Y_]
+oxEc
+PSQR
+D$ 1
+D$$
+ZY[X
+PSQR
+ZY[X
+PSR
+Z[X
+XPSQRVWU
+]_^ZY[X
+!Sf
+Z[f
+Real mode block must be at least 1024 bytes in length!
+You *MUST* call VBE_init() before you can call the VESAVBE.C module!
+VBE2
+VESA
+Could not find %s in zipfile %s
+Couldn't allocate %d bytes for output buffer
+Error inflating compressed file: %d
+Could not open zipfile %s
+Couldn't allocate %ld bytes for input buffer
+Error in zipfile: couldn't read %ld bytes of compressed data
+Error in zipfile: couldn't read %ld bytes from local file header
+Error in zipfile: couldn't read %ld bytes from central directory
+Error in zipfile: compression method for file %s unsupported.
+Method: $%04x  must be $0000 (Stored) or $0008 (Deflated)
+Error in zipfile: version for file %s too new.
+Version: $%02x must be $14 or less
+Error in zipfile: OS for file %s not supported.
+OS: $%02x must be $00
+Error in zipfile: couldn't read %ld bytes from end of file
+%d %d
+OFF
+%d %s
+Input num out of range
+%s %d %d %d %d %d %d %d
+%d %d %d %d %d
+%s %d %d %d %d %d %d %d %d %d %d %d %d %d %d %d
+Unable to find path: %s
+ -%s %s
+System options: 
+Commands: 
+%s: %s
+unrecognized arg: %s
+syntax error: %s %s
+%d options parsed:
+Parsing file: %s
+run
+OFF
+-%s %s
+Unable to create %s
+;----------------------------------------------
+; Automatically generated config file 
+;----------------------------------------------
+; video settings
+-res %d %d
+OFF
+-vsync %s
+-frameskip %d
+-frameskip AUTO
+-nomsgpopup
+-nostatepopup
+; sound settings
+-sndrate    %d
+stereo
+-disablez80
+-fakez80
+; input device types
+-setinput %d %s
+; keyboard scan codes
+-setkey KEY%d
+ %d
+; joystick settings
+-analogjoyres %d
+-setjoythresh %d   %d %d %d %d
+-remapbut %6s
+ %d
+; directories
+-pcxdir   %s
+-savedir  %s
+-patchdir %s
+-logdir   %s
+-romdir   %s
+-rdtsc
+-fpucopy
+-cpuskip
+-version %s
+Display this help
+<port> <irq> <dma>
+Manually set SB hardware settings
+sb16
+<port> <irq> <dma>
+Manually set SB16 hardware settings
+novesa
+Do not use VESA 2.0 extensions
+banked
+Force banked video mode
+linear
+Force linear video mode
+disablelfn
+Disable long file names
+res
+<X-res> <Y-res>
+Change video resolution
+nosound
+Disable sound
+vsync
+<ON/OFF>
+Wait till vertical sync to draw frames
+sndrate
+<samples/sec>
+Change sound rate
+stereo
+ON/OFF
+Use stereo
+setinput
+<num> <type>
+Set input device <num> to <type>
+remapbut
+<type> <...>
+Remaps buttons of device <type>
+setkey
+<type> <...>
+Redefine keys for keyboard <type> 
+setjoythresh
+<num> <...>
+Set threshholds for joy <type> 
+force8bit
+Forces 8-bit sound output
+romdir
+<dir>
+Sets dir for roms
+logdir
+<dir>
+Sets dir for logs
+savedir
+<dir>
+Sets dir for save files
+pcxdir
+<dir>
+Sets dir for *.PCX
+patchdir
+<dir>
+Sets dir for patches
+nomsgpopup
+Disables message popup
+nostatepopup
+Disables state popup
+analogjoyres
+<res>
+Change analog joy poll count [1024]
+disableZ80
+Disable Z80 cpu
+fakeZ80
+Enable Z80 faking
+rdtsc
+Use pentium RDTSC profiling instruction
+fpucopy
+Use FPU for memory copy
+version
+Sets hardware version
+cpuskip
+Enable cpu skipper
+exclusive
+Disable windows multitasking
+frameskip
+Manually sets frameskip
+message
+Display message box
+hidegui
+Hide GUI on startup
+load
+<filename>
+Load ROM <filename>
+run
+<filename>
+Load & run ROM <filename>
+BLASTER
+Error: %s
+Mouse driver not detected
+disablelfn
+nosound
+novesa
+Error initializing
+Out of memory
+banked
+linear
+Unable to set linear mode
+Failure setting vesa mode %dx%dx%d
+ERROR: cannot map linear buffer
+linear
+banked
+VESA mode set: %dx%dx%d %s
+Mode 13h set: %dx%dx%d
+planar
+linear
+ModeX mode set: %dx%d (%s)
+%dx%dx%d mode not supported
+VESA not detected
+VESA Version %X.%X detected
+grip.gll
+Unable to link to GrIP driver
+Unable to init GrIP system
+GrIP initialized
+%x %d %d
+%x %d %d
+nosound
+nosound
+ERROR: initializing SB DAC
+Down
+Left
+Right
+Home
+End
+Page Up
+Page Down
+Insert
+Delete
+F10
+F11
+F12
+Ctrl
+Alt
+<none>
+force8bit
+force8bit
+stereo
+mono
+SBDAC: %dhz %d-bit %s A%X I%d D%d DSP%X
+stereo
+mono
+SBDAC: %dhz %d-bit %s
+stereo
+mono
+SBDAC: %dhz %d-bit %s
+Dn: %08X %08X %08X %08X %08X %08X %08X %08X
+An: %08X %08X %08X %08X %08X %08X %08X %08X
+CCR: %cX %cN %cZ %cV %cC SR: %X USP: %08X SSP: %08X
+%X: %08X %08X %08X %08X
+%08X: %s (%d)
+Break
+Invalid opcode
+68000: %s %04X PC=%X
+68000 CPU built
+%06X %d %X
+AF=%04X BC=%04X DE=%04X HL=%04X IX=%04X IY=%04X PC=%04X SP=%04X %c%c%c%c%c%c %c %c%c
+%04X: %s (%d)
+Invalid opcode
+z80: %s %02X%02X PC=%X
+CPU emulation started
+CPU emulation stopped
+CPU emulation resumed
+CPU emulation paused
+68000 reset
+Z80 reset
+VDP reset
+guirect
+guilistbox
+guidirlist
+*.bin
+*.smd
+*.usa
+*.jap
+*.1
+*.zip
+loadrom
+Load
+Load ROM
+paletteviewdlg
+Palette
+HBlank inst: 
+VBlank inst: 
+Virtual FPS: 
+gentimingdlg
+Genesis Timing
+%04X
+Patterns
+guirect
+Genesis
+LOKAName: %s
+SRAM: %X - %X (%s)
+.gsv
+SRAM read from %s
+.gsv
+Unable to save to %s
+SRAM written to %s
+%dK read (binary)
+%dK read (interleaved)
+%dK read %s (zipped)
+Loading from zip file %s
+.bin
+.smd
+.usa
+.jap
+No valid rom in zip file
+Unable to modify split roms
+Unable to modify zipped roms
+Unable to write to %s
+Checksum: %X
+.BIN
+.SMD
+.USA
+.JAP
+.ZIP
+Unknown rom type
+Unable to open %s
+Unable to open %s
+NONE
+EVEN
+ODD
+BOTH
+enabled
+disabled
+FM music %s
+enabled
+disabled
+DAC sound %s
+enabled
+disabled
+PSG sound %s
+%06.1f
+guirect
+guistatictext
+guistaticimage
+guibutton
+guitextbutton
+guiimagebutton
+guicheckbox
+guibox
+guimaximizebox
+guionebuttonbox
+guitwobuttonbox
+guitrackthumb
+guivtrack
+guihtrack
+guiscrollbar
+guivscrollbar
+guihscrollbar
+guilistbox
+guilistbox
+guidirlist
+[-%c-]
+guiedit
+guitextedit
+guinumbertextedit
+guiintedit
+guifloatedit
+%.1f
+guirect
+guimenu
+guivmenu
+guihmenu
+guipopup
+guirect
+guiroot
+[%02d] %04d,%04d %d%d l:%02d p:%04X c:%d %c
+r[%d]=%02X
+NK?
+@VUUUUU
+NK?
+@VUUUUU
+.DT
+!	@
+@YM2612 FM initialized (%dK) 
+YM2612 FM destroyed
+%02X
+#%d %06.1f %X%X%c%c
+LFO %1.2f
+NONE
+KEY1
+KEY2
+JOY1
+JOY2
+4BUTTON
+6BUTTON
+GRIP1
+GRIP2
+SIDEWINDER1
+SIDEWINDER2
+None
+Keyboard 1
+Keyboard 2
+Joystick 1 (2)
+Joystick 2 (2)
+4-button pad
+6-button pad
+GrIP Slot 1
+GrIP Slot 2
+MS Sidewinder 1
+MS Sidewinder 2
+guirect
+guiedit
+guilistbox
+guistringlistbox
+keyedit
+inputtestarea
+None
+#%d
+Center joystick and
+Swirl joystick and
+press a button
+Redefine keys
+Remap buttons
+Calibrate
+Remap buttons
+Redefine keys...
+changeinputdevice
+Input device %d
+Input type:
+Test area:
+Up-left
+Up-right
+Left
+Right
+Down-left
+Down
+Down-Right
+Start
+A: 
+B: 
+C: 
+Start: 
+X: 
+Y: 
+Z: 
+a32root
+modadjust: %d
+.bin
+.bin
+guirect
+guilistbox
+.pat
+Unable to create %s
+%06X:%04X    %s
+%d patches saved to %s
+.pat
+%d patch(s) read from %s
+%X:%X
+%06X:%04X
+Invalid GG letter: %c
+Invalid GG code length
+Code:
+Name:
+Add
+Remove
+Toggle
+Save
+ROM patcher
+.r2
+.scr
+.R2
+.SCR
+error: not IFF file.
+error: not old DP2 format.
+error: BMHD tag not found.
+error: BODY tag not found.
+snap%03d.pcx
+Unable to create %s
+Snapshot saved to %s
+Stopped sound log: %.2f sec
+Unable to create %s
+RIFF
+WAVE
+fmt 
+data
+Logging sound to %s
+Stopped YM log
+.gym
+Logging YM to %s
+.gs%d
+Unable to create %s
+GST
+State saved to %s
+Unable to open %s
+GST
+Invalid state file
+State restored from %s
+@SAVE
+LOAD
+guirect
+message
+%s %s
+Vx.xx
+Copyright (C) 1998 Bloodlust Software
+%s %d.%d %s %s
+aboutdlg
+About
+.wav
+%s%02d%s
+Save: 
+PCX: 
+Log: 
+Patch: 
+Directories
+X-Res: 
+Y-Res: 
+Okay
+Set resolution
+ERROR: Bad heap node
+ERROR: Heap empty
+Heap OK
+Messages
+messages.log
+Messages dumped to %s
+ram.
+RAM dumped
+rom.
+ROM dumped
+z80.
+Z80 RAM dumped
+cram.
+CRAM dumped
+vsram.
+VSRAM dumped
+vram.
+VRAM dumped
+ym2612.
+YM2612 regs dumped
+hscroll: %04X
+sprite:  %04X
+ntAbase: %04X
+ntBbase: %04X
+ntWbase: %04X
+Hardware Version: %s
+enabled
+disabled
+Z80 %s
+off
+Raster effects %s
+off
+H-ints %s
+off
+CPU skipping %s
+~%dx%d
+auto
+Frameskip: %s
+nosound
+Soundrate set: %dhz
+OFF
+Stereo %s
+USA
+Japan
+Europe
+~Start
+~Stop
+~Start
+~Stop
+Load ROM...
+Free ROM
+Directories...
+Fix ROM checksum
+Save snapshot
+Exit
+~RAM
+~ROM
+~VRAM
+~VSRAM
+~CRAM
+~Z80 RAM
+~YM2612 regs
+~Messages
+~VDP base
+~VDP regs
+~Sprites
+Reset
+Pause
+Advance frame
+CPU skip
+Save state
+Restore state
+ROM patch...
+Dump
+~Scroll B low
+~Scroll A low
+~Scroll B high
+~Scroll A high
+~Sprites
+~Window
+Messages
+Palette
+Patterns
+Layer
+~256x224
+~256x240
+~256x256
+~320x200
+~320x224
+~320x240
+~384x257
+~640x400
+~640x480
+~Other...
+~Device 1
+~Device 2
+~USA
+~Japan
+~Europe
+~Auto
+-----
+11025
+22050
+44100
+~Joy 1
+~Joy 2
+Rate
+Stereo
+Z80 enable
+Z80 faking
+FM music enable
+PSG sound enable
+DAC sound enable
+Wave output
+Show FM info
+Log wave
+Log YM2612
+Input
+Resolution
+Frameskip
+Vsync
+-----
+Timing...
+DMA fix
+Force display
+H-Interrupt enable
+Raster effects
+Auto-Version
+Version
+6 Button
+Hide GUI
+Message popup
+State popup
+About...
+File
+View
+CPU
+Settings
+Sound
+Misc
+corrupt volume file
+.VOL
+open: %s
+corrupt volume file %s
+close:  %8s
+reading volume %s size: %d
+read:   %8s size: %7d type: %s
+reading volume %s size: %d
+read:   %8s size: %7d type: %s
+reading volume %s size: %d
+read:   %8s size: %7d type: %s numelements: %d
+skipped:%8s size: %5d type: %2s
+header
+rawdata
+image
+sound
+midi
+palette
+screen
+block
+undefined constructor or destructor called!
+EXE
+COM
+compiler error: eliminated virtual function call!
+pure virtual function called!
+Not enough memory to allocate file structures
+Floating-point support not loaded
+RATIONAL DOS/4G
+Unable to allocate real mode selector
+Unable to set limit of real mode selector
+yE>acos
+asin
+sqrt
+exp
+cosh
+sinh
+pow
+acosh
+log2
+log
+log10
+atanh
+atan2
+ipow
+dpowi
+cos
+sin
+tan
+mod
+cotan
+stack data has been corrupted!
+violation of function exception specification!
+throw while "terminate" function active!
+throw during destructor while unwinding stack to catch exception!
+throw while "terminate" function active!
+throw during construction of exception!
+throw during destructor for handled exception!
+re-throw when no exception handler active!
+no handler active to catch thrown object!
+re-throw when no exception handler active!
+no handler active to catch thrown object!
+system exception! code = 0x00000000
+Domain error
+Argument singularity
+Overflow range error
+Underflow range error
+Total loss of significance
+Partial loss of significance
+ in 
+inf
+nan
+no memory left to handle thrown exception!
+ABNORMAL TERMINATION
+return from "terminate" function!
+return from "unexpected" function!
+8888888888
+XXXXXXHHHHHHHHHHHHHHHHHHHH
+=@[V6
+$@GRIP.GLL
+GRIP
+C:\GRIP\
+genecyst
+gen.ini
+>DOS
+06:66:00
+Dec 25 1997
+Watcom C++
+1234567890-=
+	qwertyuiop[]
+asdfghjkl;'`
+\zxcvbnm,./
+!@#$%^&*()_+
+	QWERTYUIOP{}
+ASDFGHJKL:"~
+|ZXCVBNM<>?
+DSL
+gui
+DSL
+bg.lbm
+***###
+????3
+&.???DSL
+cursor.r2
+DSL
+font.fnt
+#c 5$
+ '"l
+ :#
+"z!
+DSL
+sfont.fnt
+DSL
+check.r2
+DSL
+umark.r2
+	DSL
+dmark.r2
+	DSL
+lmark.r2
+DSL
+rmark.r2
+DSL
+sumark.r2
+DSL
+sdmark.r2
+DSL
+wx.r2
+.r2
+DSL
+wm.r2
+.r2
+				
+				
+DSL
+mcheck.r2
+DSL
+menur.r2
+DSL
+nes.r2
+DSL
+dir.r2
+			
+					
+								
+DSL
+drive.r2
+						
+						
+										DSL
+bc1.r2
+****
+&"""7"
+&&"
+"7"
+*"7""7"
+"7"7"
+"""
+DSL
+bc2.r2
+****
+&"""7"
+&&"
+"""
+*"""7""
+"7"""
+"7"
+DSL
+bc3.r2
+****
+&"""7"
+&&"
+"""
+*""""7"
+""7"""
+"7"""
+DSL
+bc4.r2
+****
+&"""7"
+&&"
+"""
+*"""7""
+"7""""
+"7""
+DSL
+l1.r2
+2ll,
+DSL
+l2.r2
+2DSL
+l3.r2
+2DSL
+l4.r2
+?lllllll
+%DSL
+l5.r2
+Y0SHi
+?@)\
+c@\
+?)\?@
+@33
+c?!
+|??
+&I@
+|??d;
+?)\'@
+!?L7
+?d;
+!?%
+>)\o?
+p]?%
+K?w
+l'?)\o?
+p]?
+p]?
+p]?
+p]?
+@?fff?)\
+@ff&@=
+x@ff
+@)\
+@ff
+&A)\GA
+yAff
+A)\
+A33
+Aff
+QGB
+(yBHa
+BHa
+WGC
++yC
+&DfVGD),yD
+D{,
+VGER,yE{b
+Ef,
+?)\
+@)\
+@)\
+@)\
+(,A33WA{
+Aq=
+B33,Bq=WB
+B33
+C33,C
+@WC
+C{4
+CHA
+3,D
+@WDH
+3,E
+@WE
+3,F
+@WF
+3,G
+@WG
+Q8G
+33333
+333333A
+fffff
+fffff
+Q81
+ffffff"
+B#@
+ffffff
+333333
+GHIKMOPQ,-./
+ABCSXYZ
+ABCDEFGHJKLMNPRSTVWXYZ0123456789
+ijklmnopIJKLMNOPABCDEFGHdefghabcQRSTUVWX
+DSL
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@A@A
+@@@@PPPP````pppp
+@@@@PPPP````pppp
+UUUU
+?3333
+*$I
+UUU
+^Cy
+,d!
+	^B{	I
+Stack Overflow!
+EST
+EDT
+@ R
+ /=
+ oM

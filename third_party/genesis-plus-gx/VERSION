@@ -1,0 +1,3 @@
+Genesis Plus GX core vendored from https://github.com/ekeeke/Genesis-Plus-GX
+commit 49c584764893b0505ac7f768a754f97330fa4392 (2026-10-06)
+Excluded: core/cd_hw/libchdr, core/sound/tremor

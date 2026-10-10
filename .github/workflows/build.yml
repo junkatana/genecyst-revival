@@ -1,0 +1,56 @@
+name: build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y build-essential cmake ninja-build libsdl2-dev zlib1g-dev
+      - name: Configure
+        run: cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
+      - name: Build
+        run: ninja -C build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: genecyst-linux-x86_64
+          path: build/genecyst
+
+  windows:
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: msys2 {0}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: msys2/setup-msys2@v2
+        with:
+          msystem: MINGW64
+          update: true
+          install: >-
+            mingw-w64-x86_64-gcc
+            mingw-w64-x86_64-cmake
+            mingw-w64-x86_64-ninja
+            mingw-w64-x86_64-SDL2
+            mingw-w64-x86_64-zlib
+            mingw-w64-x86_64-pkgconf
+      - name: Configure
+        run: cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
+      - name: Build
+        run: ninja -C build
+      - name: Package
+        run: |
+          mkdir -p dist/genecyst
+          cp build/genecyst.exe dist/genecyst/
+          cp /mingw64/bin/SDL2.dll /mingw64/bin/zlib1.dll dist/genecyst/ || true
+          cp README.md dist/genecyst/README.md
+          cp third_party/genesis-plus-gx/LICENSE.txt dist/genecyst/LICENSE-genesis-plus-gx.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: genecyst-windows-x86_64
+          path: dist

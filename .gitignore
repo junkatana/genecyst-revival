@@ -1,0 +1,12 @@
+build/
+*.GS[0-9]
+*.gs[0-9]
+*.GSV
+*.gsv
+*.pcx
+*.gym
+*.wav
+*.pat
+reference/original/genecyst-dos-original.zip
+genecyst.cfg
+*.gst
